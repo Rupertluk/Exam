@@ -206,4 +206,8 @@ end
 
 -- Start everything moving
 Runtime:addEventListener( "enterFrame", move );
---D1064422309
+
+--D1064422309 陸繼杵/美術
+--D1064422304 郭勇發/程式
+--D1064421302 關瑋程/美術
+--D1064421307 蔡觀耀/美術
